@@ -2,7 +2,7 @@
 
 🎓 Currently pursuing Masters of Science in Information Management(May 2023)
 
-🌇 Indian Native, currently in USA with a passion for all things Data.
+🌇 currently in USA.
 
 📚 I have experience in Software Development, Web Development and Business Consulting.
 
