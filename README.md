@@ -12,6 +12,8 @@ LINKEDIN - https://www.linkedin.com/in/ritika-pateriya/
 
 Email - ritika.pateriya@gmail.com
 
+Tableau - https://public.tableau.com/app/profile/ritika.pateriya
+
 
 <!---
 ritika0308/ritika0308 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
